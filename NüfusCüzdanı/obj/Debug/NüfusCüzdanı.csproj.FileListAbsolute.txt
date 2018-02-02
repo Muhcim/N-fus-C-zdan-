@@ -1,0 +1,9 @@
+c:\users\everest\documents\visual studio 2013\Projects\NüfusCüzdanı\NüfusCüzdanı\bin\Debug\NüfusCüzdanı.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\NüfusCüzdanı\NüfusCüzdanı\bin\Debug\NüfusCüzdanı.exe
+c:\users\everest\documents\visual studio 2013\Projects\NüfusCüzdanı\NüfusCüzdanı\bin\Debug\NüfusCüzdanı.pdb
+c:\users\everest\documents\visual studio 2013\Projects\NüfusCüzdanı\NüfusCüzdanı\obj\Debug\NüfusCüzdanı.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\NüfusCüzdanı\NüfusCüzdanı\obj\Debug\NüfusCüzdanı.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\NüfusCüzdanı\NüfusCüzdanı\obj\Debug\NüfusCüzdanı.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\NüfusCüzdanı\NüfusCüzdanı\obj\Debug\NüfusCüzdanı.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\NüfusCüzdanı\NüfusCüzdanı\obj\Debug\NüfusCüzdanı.exe
+c:\users\everest\documents\visual studio 2013\Projects\NüfusCüzdanı\NüfusCüzdanı\obj\Debug\NüfusCüzdanı.pdb
